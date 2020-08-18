@@ -6,12 +6,11 @@
     --clr-secondary2: rgb(250, 194, 194);
 }
 
-
-
-section {
-    
-    /* background-image: linear-gradient(var(--clr-primary), white); */
-    /* padding-left: 1em; */
+#banner {
+    background-image: url('../images/scene1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
 }
 
 .footer-section {
